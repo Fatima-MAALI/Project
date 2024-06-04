@@ -1,0 +1,68 @@
+const url = "https://img.daisyui.com/images/stock/photo-1635805737707-575885ab0820.jpg"
+const doctors = [
+    {
+        id: "1",
+        name: "Dr. Amina Ali",
+        image: url,
+        profession: "Oral and Maxillofacial Surgery",
+        phone_number: "+21355695152",
+        email: "aminadental@gmail.com",
+        description: "Dr. Amina Ali: Your cosmetic dentistry expert for over 15 years. Specializing in smile transformations with advanced techniques like whitening, veneers, and smile makeovers",
+    },
+    {
+        id: "2",
+        name: "Dr. Amina Ali",
+        image: url,
+        profession: "Oral and Maxillofacial Surgery",
+        phone_number: "+21355695152",
+        email: "aminadental@gmail.com",
+        description: "Dr. Amina Ali: Your cosmetic dentistry expert for over 15 years. Specializing in smile transformations with advanced techniques like whitening, veneers, and smile makeovers",
+    },
+    {
+        id: "3",
+        name: "Dr. Amina Ali",
+        image: url,
+        profession: "Oral and Maxillofacial Surgery",
+        phone_number: "+21355695152",
+        email: "aminadental@gmail.com",
+        description: "Dr. Amina Ali: Your cosmetic dentistry expert for over 15 years. Specializing in smile transformations with advanced techniques like whitening, veneers, and smile makeovers",
+    },
+    {
+        id: "4",
+        name: "Dr. Amina Ali",
+        image: url,
+        profession: "Oral and Maxillofacial Surgery",
+        phone_number: "+21355695152",
+        email: "aminadental@gmail.com",
+        description: "Dr. Amina Ali: Your cosmetic dentistry expert for over 15 years. Specializing in smile transformations with advanced techniques like whitening, veneers, and smile makeovers",
+    },
+    {
+        id: "5",
+        name: "Dr. Amina Ali",
+        image: url,
+        profession: "Oral and Maxillofacial Surgery",
+        phone_number: "+21355695152",
+        email: "aminadental@gmail.com",
+        description: "Dr. Amina Ali: Your cosmetic dentistry expert for over 15 years. Specializing in smile transformations with advanced techniques like whitening, veneers, and smile makeovers",
+    },
+    {
+        id: "6",
+        name: "Dr. Amina Ali",
+        image: url,
+        profession: "Oral and Maxillofacial Surgery",
+        phone_number: "+21355695152",
+        email: "aminadental@gmail.com",
+        description: "Dr. Amina Ali: Your cosmetic dentistry expert for over 15 years. Specializing in smile transformations with advanced techniques like whitening, veneers, and smile makeovers",
+    },
+    {
+        id: "7",
+        name: "Dr. Amina Ali",
+        image: url,
+        profession: "Oral and Maxillofacial Surgery",
+        phone_number: "+21355695152",
+        email: "aminadental@gmail.com",
+        description: "Dr. Amina Ali: Your cosmetic dentistry expert for over 15 years. Specializing in smile transformations with advanced techniques like whitening, veneers, and smile makeovers",
+    },
+]
+
+export default doctors
